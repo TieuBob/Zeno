@@ -1,0 +1,5 @@
+$ git add
+
+$ git commit -m “điền nội dung commit vào đây”
+
+$ git push origin master
